@@ -1,0 +1,35 @@
+_repo: Le-nez-d-un-notaire_51709
+_version: 0.0.1
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - About, E. (Edmond)
+    - Ampou, Edmondos
+    - About, Edmond François Valentin
+    - About, Edmond Francois Valentin
+    - Abu, Edmond
+    - Avout, Edmondos
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+description: ''
+gutenberg_bookshelf:
+- FR Humour
+- FR Littérature
+gutenberg_issued: '2016-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51709'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Le nez d'un notaire
+url: http://www.gutenberg.org/ebooks/51709
